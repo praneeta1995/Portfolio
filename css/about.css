@@ -1,0 +1,57 @@
+#logo{
+		font-family:'Pacifico', cursive;
+		font-size:18px;
+		left:50px;
+		
+	}
+	#home{
+		
+		position: relative;
+	   top:150px;
+		margin-right:80px;
+
+	   
+	}
+	#aboutme{
+		
+		position: relative;
+		top:300px;
+		margin-left:90px;
+		left:90px; 
+	   
+	}
+	#portfolio
+	{
+		position: relative;
+		top:450px;
+		margin-left:90px;
+		left:190px; 
+		
+	}
+	#p02{
+	 color:white;
+	 font-family: 'Jim Nightshade', serif;
+      font-size: 28px;
+	  position: relative;
+		top:150px;
+		left:150px;
+	}
+	#head{
+		position:relative;
+		top:150px;
+		font-family:'Monoton', cursive;
+	}
+	/*#tamil{
+		position:relative;
+		top:380px;
+		left:250px;
+	}*/
+	#location{
+		position:relative;
+		bottom:100px;
+		left:110px;
+		font-family:'Monoton', cursive;
+		font-size:32px;
+	    right:10px;
+		
+	}

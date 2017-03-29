@@ -1,0 +1,79 @@
+#logo{
+		font-family:'Pacifico', cursive;
+		font-size:18px;
+		left:50px;
+	}
+	#home{
+		
+		position: relative;
+	   bottom:150px;
+		margin-right:70px;
+
+	   
+	}
+	#aboutme{
+		
+		position: relative;
+		bottom:20px;
+		margin-left:90px;
+		left:90px; 
+	   
+	}
+	#portfolio
+	{
+		position: relative;
+		top:100px;
+		margin-left:90px;
+		left:190px; 
+		
+	}
+	#camera{
+		position:relative;
+		top:20px;
+	}
+	#pentool{
+		
+		position:relative;
+		bottom: 110px;
+		left:380px;
+	}
+	#blog{
+		position:relative;
+		bottom:390px;
+		right:130px;
+	}
+	#work
+	{
+		position:relative;
+	font-family: 'Monoton', cursive;
+	font-size:50px;
+	text-align: center;
+	color:black;
+	right:80px;
+	}
+	#photo{
+		position:relative;
+	font-family: 'Monoton', cursive;
+	font-size:36px;
+	text-align: center;
+	color:black;
+	right:500px;
+	}
+	#illustration{
+	position:relative;
+	font-family: 'Monoton', cursive;
+	font-size:36px;
+	text-align: center;
+	color:black;
+	right:90px;
+	bottom:90px;
+	}
+	#blog2{
+		position:relative;
+	font-family: 'Monoton', cursive;
+	font-size:36px;
+	text-align: right;
+	color:black;
+	right:150px;
+	bottom:420px;
+	}

@@ -1,0 +1,38 @@
+	div.svg {
+	 padding:20px;
+		right:150px;
+	 top:50px;
+	}
+	#logo{
+		font-family:'Pacifico', cursive;
+		font-size:18px;
+		left:50px;
+	}
+	#home{
+		
+		position: relative;
+	   top:150px;
+		margin-right:100px;
+
+	   
+	}
+	#aboutme{
+		
+		position: relative;
+		top:300px;
+		margin-left:90px;
+		left:90px; 
+	   
+	}
+	#portfolio
+	{
+		position: relative;
+		top:450px;
+		margin-left:90px;
+		left:190px; 
+		
+	}	
+
+			
+	
+	
